@@ -1,6 +1,6 @@
 #include <iostream>
 #include <iomanip>
-// This is written based on the orientation of E6 explained in the work of Faber and Nazemian, *The Number of Ones in Mesh Friezes of Type E7, 2026
+// This is written based on the orientation of E7 explained in the work of Faber and Nazemian, *The Number of Ones in Mesh Friezes of Type E7, 2026
 using namespace std;
 
 void mesh(double &f1, double &f2, double &f3,
